@@ -38,29 +38,6 @@ End-to-end test suite for [SauceDemo](https://www.saucedemo.com) — a public de
 
 ### Run Locally:
 
-```bash
-# Install dependencies
-npm install
-
-# Install Playwright browsers
-npx playwright install
-
-# Run all tests (headless)
-npm run test:playwright
-
-# Run tests with browser visible
-npm run test:playwright:headed
-
-# Debug mode
-npm run test:playwright:debug
-
-
-CI/CD Integration:
-Tests run automatically via GitHub Actions on:
-Every push to main branch
-Every pull request
-Daily schedule (6 AM UTC)
-
 ##
 
 2. 📬 Postman — API Testing
