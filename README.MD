@@ -61,6 +61,8 @@ Every push to main branch
 Every pull request
 Daily schedule (6 AM UTC)
 
+##
+
 2. 📬 Postman — API Testing
 File: postman-api-collection.json
 Complete API test collection for JSONPlaceholder — a free fake REST API.
@@ -86,6 +88,7 @@ JSON body structure validation
 Data type checking (id is number, title is string)
 Array length assertions
 
+##
 3. 📱 Appium — Mobile Automation
 File: appium-mobile-test.py
 Mobile test suite for Android Calculator app — demonstrates mobile automation capabilities.
@@ -120,6 +123,7 @@ Requirements Before Running:
 
 Note: Update desired_caps in the script for your specific device/emulator.
 
+##
 🛠️ Tech Stack Summary
 Category	      Technologies Demonstrated
 Web Automation -> Playwright, TypeScript
@@ -128,6 +132,7 @@ Mobile Automation	Appium -> Python, Android
 CI/CD	GitHub Actions -> YAML
 Test Design	-> Page Objects, Assertions, Waits, Data Validation
 
+##
 📊 Skills Demonstrated
         Skill                              	Evidence
 Test automation framework design	-> playwright.config.ts with multi-browser support
@@ -138,7 +143,7 @@ Mobile testing                    -> Appium script for real/emulated Android
 Performance testing readiness   	-> JMeter plan available (on request)
 Version control	                  -> Clean Git workflow
 
-
+##
 🔜 Coming Soon
 Cypress test examples
 k6 performance test scripts
@@ -147,7 +152,7 @@ Test report generation (Allure)
 API test automation with REST Assured (Java)
 
 
-
+##
 📞 Contact
 Tanvir Hossain
 Senior QA Engineer | SDET
