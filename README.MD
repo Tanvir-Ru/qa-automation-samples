@@ -76,22 +76,7 @@ Test Cases Covered:
 ✖️ Multiplication: 4 × 7 = 28
 🧹 Clear button functionality
 
-Prerequisites:
-# Install Appium Python client
-pip install appium-python-client
 
-# Install Appium server (globally)
-npm install -g appium
-
-# Install UiAutomator2 driver
-appium driver install uiautomator2
-
-Run Tests:
-# Terminal 1: Start Appium server
-appium
-
-# Terminal 2: Run the test script
-python appium-mobile-test.py
 
 Requirements Before Running:
 ✅ Android emulator running OR real Android device connected
